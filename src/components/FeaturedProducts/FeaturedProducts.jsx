@@ -16,9 +16,9 @@ const FeaturedProducts = ({ type }) => {
     {
       id: 2,
       img1: "https://images.pexels.com/photos/1972115/pexels-photo-1972115.jpeg",
-      // img2: 'https://images.pexels.com/photos/1163194/pexels-photo-1163194.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+    img2: 'https://images.pexels.com/photos/1163194/pexels-photo-1163194.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       title: "Long Sleeve Graphic T-Shirt",
-      // isNew: true,
+      isNew: true,
       oldprice: 19,
       price: 12,
     },
